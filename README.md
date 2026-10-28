@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 
-My name is Quesited and i code sometimes.
+My name is **Quesited** and i code sometimes.
 
